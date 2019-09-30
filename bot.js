@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("")
+let channel =     client.channels.get("627880182912647224")
 setInterval(function() {
-channel.send(`627880182912647224 قاعد اكرر الكلام مرة و مرة عشان الكريدتس :joy: :yum: :weary: :poop: :joy: :yum: :weary: :poop: :joy: :yum: :weary: :poop: `);
+channel.send(`627880182912647224 credits goood قاعد اكرر الكلام مرة و مرة عشان الكريدتس :joy: :yum: :weary: :poop: :joy: :yum: :weary: :poop: :joy: :yum: :weary: :poop: `);
 }, 30)
 })
 
